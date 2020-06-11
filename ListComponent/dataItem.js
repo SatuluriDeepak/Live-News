@@ -39,4 +39,5 @@ class DataItem extends Component {
 
 }
 
+
 export default DataItem;
