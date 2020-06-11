@@ -64,6 +64,7 @@ class ModalComponent extends Component {
         } else {
             return null;
         }
+        
     }
 }
 
