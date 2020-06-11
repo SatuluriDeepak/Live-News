@@ -36,6 +36,7 @@ class DataItem extends Component {
             </ListItem>
         );
     }
+
 }
 
 export default DataItem;
