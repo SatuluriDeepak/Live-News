@@ -21,6 +21,7 @@ export async function getArticles(cat){
 
         return result.articles;
     }
+    
     catch(error){
         throw error;
     }*/
